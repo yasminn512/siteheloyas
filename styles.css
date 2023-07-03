@@ -2,12 +2,18 @@
     --branco-principal:var(--branco-principal) #FFFFFF;
     --cinza-secundario:var(--cinza-secundario) #c0c0c0;
     --botao-azul:var(--botao-azul) #167bf7;
-    --cor-de-fundo:var(--cor-de-fundo) #000b0c;
+    --cor-de-fundo:var(--cor-de-fundo) #dddddd;
 }
        
-        body{
-            background-color: var(--cor-de-fundo);
-color:aqua;
+ body{
+     background-color: var(--cor-de-fundo);
+    color:aqua;
         }
     
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
     
